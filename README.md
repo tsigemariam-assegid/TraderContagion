@@ -79,3 +79,11 @@ Here are the threadscope results:
 ![Parallel Implementation Threadscope](image.png "Figure 2: Parallel Simulation")
 *Figure 2: Parallel Simulation*
 
+## References 
+1. Feng, L., Li, B., Podobnik, B., Preis, T., Stanley, H. E. (2012). Linking agent-
+based models and stochastic models of financial markets. Proceedings of the Na-
+tional Academy of Sciences of the United States of America, 109(22), 8388–8393.
+http://www.jstor.org/stable/41602564
+
+2. Hill, B.M. (1975) A simple general approach to inference about the tail of a dis-
+tribution. Annals of Statistics. 13, 331-3414
