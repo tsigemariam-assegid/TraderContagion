@@ -67,6 +67,9 @@ in the section above. The sequential version took over 60s, I was able to get to
 6s in the parallel version.
 
 Here are the threadscope results:
-![Sequential Implementation Threadscope](seq.png "Figure 2: Sequential Simulation")
+![Sequential Implementation Threadscope](seq.png "Figure 1: Sequential Simulation")
+*Figure 1: Sequential Simulation*
 
 ![Parallel Implementation Threadscope](image.png "Figure 2: Parallel Simulation")
+*Figure 2: Parallel Simulation*
+
